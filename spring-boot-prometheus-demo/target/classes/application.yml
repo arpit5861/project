@@ -1,0 +1,7 @@
+management:
+  security:
+    enabled: false
+
+jwt:
+  secret: secret
+  expiration: 100000000
